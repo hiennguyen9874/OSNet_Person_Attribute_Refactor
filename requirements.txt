@@ -1,6 +1,6 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 albumentations==1.1.0
-torch==1.10.0+cu113
+torch==2.2.0
 torchvision==0.11.1+cu113
 PyYAML==5.4.1
 opencv-python==4.5.3.56
